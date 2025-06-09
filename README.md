@@ -1,6 +1,4 @@
-Here's a professional **README.md** file in **English** for your GitHub project based on the given code:
 
----
 
 # 🧮 House Price Prediction using Gradient Descent (NumPy + Pandas)
 
@@ -92,6 +90,6 @@ Ensure the path to `Cleaned_Data.xlsx` is valid or adjust it in the script.
 * This implementation **does not** use machine learning libraries like Scikit-learn or TensorFlow—everything is implemented from scratch.
 * Suitable as an educational example for understanding linear regression and gradient descent.
 
----
+
 
 
